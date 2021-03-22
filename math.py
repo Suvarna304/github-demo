@@ -1,7 +1,7 @@
 from Pallavi Jog to All Participants:
 #Add implementation
 def add(x,y):
-    return x+y
+    pass
 #Sub implementation
 def subtract(x,y):
     return x-y
