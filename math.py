@@ -13,7 +13,7 @@ def multiply(x,y):
     pass
 #Division implementation
 def divide(x,y):
-		return x/y
+		pass
 #Sqaure implementation
 def sqaure (x):
 	pass
