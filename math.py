@@ -16,5 +16,5 @@ def divide(x,y):
 		pass
 #Sqaure implementation
 def sqaure (x):
-	pass
+	return x*x
 		
